@@ -1,76 +1,72 @@
-# Go Programming Class – Syllabus
+# کلاس برنامه‌نویسی Go – برنامه آموزشی (Syllabus)
 
-## 📅 Course Duration
-6 Weeks | 2 Sessions per Week | Beginner to Intermediate
+## 📅 مدت دوره  
+۶ هفته | ۲ جلسه در هفته | سطح: مبتدی تا متوسط
 
 ---
 
-## 🧭 Week 1: Getting Started with Go
+## 🧭 هفته اول: شروع با Go
 
-### Session 1: Introduction, Installation, Hello World
-- Install Go + VS Code
-- First program: `Hello, World!`
-- Print, comments, basic types
+### جلسه ۱: معرفی، نصب، Hello World  
+- نصب Go و VS Code  
+- اولین برنامه: `Hello, World!`  
+- چاپ (Print)، توضیحات (comments)، انواع پایه (basic types)  
 - 📂 `sessions/session01/`
 
-### Session 2: Variables, Types, Input
-- Variables
-- Type inference
-- `bufio.Scanner`, parsing input
+### جلسه ۲: متغیرها، انواع داده، ورودی  
+- متغیرها  
+- استنباط نوع (Type Inference)  
+- استفاده از `bufio.Scanner` برای دریافت ورودی و تبدیل آن  
 
 ---
 
-## 🚦 Week 2: Conditionals and Loops
+## 🚦 هفته دوم: دستورات شرطی و حلقه‌ها
 
-### Session 3: If-Else, Logical Operators
-- Comparison
-- Boolean logic
+### جلسه ۳: If-Else و عملگرهای منطقی  
+- مقایسه  
+- منطق بولی (Boolean Logic)
 
-### Session 4: For Loops
-- Classic loop, while-style loop
-- Looping through numbers
+### جلسه ۴: حلقه‌های For  
+- حلقه سنتی (Classic)، حلقه شبیه While  
+- پیمایش روی اعداد
 
 ---
 
-## 🔁 Week 3: Switch, Arrays, and Slices
+## 🔁 هفته سوم: Switch، آرایه‌ها و Sliceها
 
-### Session 5: Switch Statements
-- `switch-case`, multiple matches
-- `fallthrough`, tagless switch
+### جلسه ۵: دستورات Switch  
+- ساختار `switch-case` با تطابق چندگانه  
+- استفاده از `fallthrough` و Switch بدون تگ  
 
-### Session 6: Arrays and Slices
-- Fixed vs dynamic length
-- Looping over collections
+### جلسه ۶: آرایه‌ها و Sliceها  
+- طول ثابت در مقابل طول پویا  
+- پیمایش روی مجموعه‌ها  
 - 📂 `sessions/session06/`
 
 ---
 
-## 🧰 Week 4: Maps and Functions
+## 🧰 هفته چهارم: Mapها و توابع
 
-### Session 7: Maps (Dictionaries)
-- Create, read, update, delete keys
-- Check for existence with `ok`
+### جلسه ۷: Mapها (دیکشنری‌ها)  
+- ایجاد، خواندن، بروزرسانی و حذف کلیدها  
+- بررسی وجود کلید با `ok`  
 
-### Session 8: Functions
-- Function declaration, parameters
-- Return values, named return
-
----
-
-## 📦 Week 5–6: Projects, Structs, Interfaces, Concurrency
-(You can plan this as students progress.)
+### جلسه ۸: توابع  
+- تعریف تابع، پارامترها  
+- مقادیر بازگشتی، بازگشت با نام  
 
 ---
 
-## 🧠 Final Project (Optional)
-- CLI Todo App
-- File-based Notes Organizer
-- JSON to CSV converter
+## 📦 هفته ۵ و ۶: پروژه‌ها، Struct، Interface و هم‌زمانی (Concurrency)  
+
 
 ---
 
-## 📌 Resources
-- 🧾 Cheatsheets: `cheatsheets/`
-- 📂 Mini Projects: `projects/`
-- 🧪 Exercises: `exercises/`
+## 🧠 پروژه نهایی 
 
+---
+
+## 📌 منابع  
+- 🧾 برگه‌های خلاصه: `cheatsheets/`  
+- 📂 مینی‌پروژه‌ها: `projects/`  
+- 🧪 تمرین‌ها: `exercises/`
