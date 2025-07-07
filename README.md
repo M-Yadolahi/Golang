@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><code>exercises/</code></td>
-      <td>تمرین‌ها و چالش‌های اضافه (برخی برگرفته از LeetCode)</td>
+      <td>تمرین‌ها و چالش‌های اضافه </td>
     </tr>
     <tr>
       <td><code>cheatsheets/</code></td>
