@@ -1,38 +1,36 @@
-# 🧠 Golang Programming Class
+# 🧠 کلاس برنامه‌نویسی Golang
 
-Welcome to the **Go Programming Class** repository!  
-This course is designed for **beginners to intermediate** learners who want to learn the Go (Golang) programming language through clear explanations, examples, exercises, and mini-projects.
-
----
-
-## 📘 Course Overview
-
-- 🚀 Learn the basics of Go (syntax, types, control flow)
-- 🧩 Build mini-projects and solve real-world problems
-- 🔍 Practice with exercises and curated LeetCode challenges
-- 💡 Understand Go idioms, formatting, and type introspection
+به مخزن **کلاس برنامه‌نویسی Go** خوش آمدید!  
+این دوره برای **مبتدیان تا سطح متوسط** طراحی شده است تا زبان برنامه‌نویسی Go (یا Golang) را از طریق توضیحات شفاف، مثال‌ها، تمرین‌ها و مینی‌پروژه‌ها بیاموزند.
 
 ---
 
-## 📁 Repository Structure
+## 📘 مرور کلی دوره
 
-| Folder | Description |
-|--------|-------------|
-| `sessions/` | Step-by-step code, examples, and notes for each class session |
-| `projects/` | Small to medium mini-projects to apply your learning |
-| `exercises/` | Extra problems and challenges (some inspired by LeetCode) |
-| `cheatsheets/` | PDF tables and charts to summarize key Go concepts |
-| `resources/` | Installation guides, links, and recommended tools |
-| `syllabus.md` | Week-by-week course outline and learning objectives |
+- 🚀 یادگیری مفاهیم پایه Go (سینتکس، انواع داده، جریان کنترل)
+- 🧩 ساخت مینی‌پروژه‌ها و حل مسائل واقعی
+- 🔍 تمرین با چالش‌ها و تمرین‌های انتخاب‌شده از LeetCode
+- 💡 آشنایی با اصول نگارشی Go، قالب‌بندی و بررسی نوع‌ها (Type Introspection)
 
 ---
 
-## 🧰 Getting Started
+## 📁 ساختار مخزن
 
-### ✅ Prerequisites
+| پوشه | توضیحات |
+|------|---------|
+| `sessions/` | کد مرحله‌به‌مرحله، مثال‌ها و یادداشت‌های هر جلسه |
+| `projects/` | مینی‌پروژه‌های کوچک تا متوسط برای تمرین مفاهیم |
+| `exercises/` | تمرین‌ها و چالش‌های اضافه (برخی برگرفته از LeetCode) |
+| `cheatsheets/` | فایل‌های PDF شامل جداول و نمودارهای مفاهیم کلیدی Go |
+| `resources/` | راهنمای نصب، لینک‌ها و ابزارهای پیشنهادی |
+| `syllabus.md` | برنامه‌ریزی هفتگی دوره و اهداف آموزشی هر بخش |
 
-- Install [Go](https://go.dev/doc/install)
-- Use a code editor (e.g., [VS Code](https://code.visualstudio.com/))
-- Basic terminal knowledge is helpful but not required
+---
 
+## 🧰 شروع کار
 
+### ✅ پیش‌نیازها
+
+- نصب [Go](https://go.dev/doc/install)
+- استفاده از یک ویرایشگر کد (مثلاً [VS Code](https://code.visualstudio.com/))
+- آشنایی ابتدایی با ترمینال مفید است اما ضروری نیست
