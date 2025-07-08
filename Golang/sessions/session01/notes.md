@@ -18,14 +18,6 @@ Go is a statically-typed language. Every variable has a specific type known at c
    - Struct
    - Pointer
 
-3. **Function Type**
-
-4. **Interface Type**
-
-5. **Channel Type**
-
-6. **Custom Types & Type Aliases**
-
 ---
 
 ## 🔢 2. Numeric Types
@@ -50,11 +42,4 @@ Go is a statically-typed language. Every variable has a specific type known at c
 | `uint32`  | 32   | 0 to 4B       |
 | `uint64`  | 64   | 0 to ~18 quintillion |
 
-**Aliases**:
-- `byte` = `uint8`
-- `rune` = `int32` (used for Unicode)
 
-### Floating Point
-
-```go
-var pi float64 = 3.14159
